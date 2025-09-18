@@ -3,7 +3,7 @@
 <div class="container mt-5">
     <div class="col-6 mx-auto">
         <h1>Bienvenidos A LA CLASE DE ESI: </h1>
-        <form action="def-palabra.php"></form>
+        <form action="def-palabra.php" method="post"></form>
         <label for="palabra">Elige una palabra</label>
         <select name="palabra" id="palabra"> 
             <option value="autocuidado">Autocuidado</option>
