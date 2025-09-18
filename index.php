@@ -11,7 +11,7 @@
             <option value="amistad">Amistad</option>
 
         </select>
-<button type="button" class="btn btn-primary">Ver</button>
+<button type="submit" class="btn btn-primary">Ver</button>
         </form>
     </div>
 </div>
