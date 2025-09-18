@@ -5,15 +5,16 @@
         <h1>Bienvenidos A LA CLASE DE ESI: </h1>
         <form action="def-palabra.php"></form>
         <label for="palabra">Elige una palabra</label>
-        <select name="palabra" id="palabra">
-            <option value="Autocuidado">Autocuidado</option>
-            <option value="Respecto">Respeto</option>
-            <option value="Amistad">Amistad</option>
+        <select name="palabra" id="palabra"> 
+            <option value="autocuidado">Autocuidado</option>
+            <option value="respeto">Respeto</option>
+            <option value="amistad">Amistad</option>
 
         </select>
 
         </form>
     </div>
 </div>
+
 
 <?php require "partials/footer.php" ?>
