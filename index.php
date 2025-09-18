@@ -11,14 +11,9 @@
             <option value="amistad">Amistad</option>
 
         </select>
-
-
-         <input type="submit" value="ver mensaje">
-
 <button type="button" class="btn btn-primary">Ver</button>
         </form>
     </div>
 </div>
-
 
 <?php require "partials/footer.php" ?>
